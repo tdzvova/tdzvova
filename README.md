@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tdzvova
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tony 
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning Html/CSS & JavaScript
+- 💞️ I’m looking to collaborate on Front-End Development 
+- 📫 How to reach me tdzvova7@gmail.com or on Twitter @tondesweb
 
 <!---
 tdzvova/tdzvova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
